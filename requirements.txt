@@ -1,0 +1,13 @@
+# Verified with Python 3.12. Original notebook metadata records Python 3.9.6.
+# These pins define the reproduction environment, not a recovered original lockfile.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+ipython==8.29.0
+ipykernel==6.29.5
+jupyterlab==4.3.0
+nbconvert==7.16.4
+nbformat==5.10.4

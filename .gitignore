@@ -1,0 +1,23 @@
+# Keep this showcase limited to its reproducible inputs and documentation.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/dataset/
+/dataset/*
+!/dataset/23_Movies_and_TV_subset_50000.jsonl
+!/output/
+/output/*
+!/output/jupyter-notebook/
+/output/jupyter-notebook/*
+!/output/jupyter-notebook/helpfulness-experiments-complete.ipynb
+
+# Reports and local artifacts are never part of the repository.
+*.docx
+*.pdf
+.DS_Store
+**/.ipynb_checkpoints/
+**/__pycache__/
+.env
+.env.*
+.venv/
