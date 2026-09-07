@@ -74,7 +74,7 @@ Keep the file's row order unchanged to reproduce the same random splits.
 
 ### 1. Clone and install
 
-Use **Python 3.12** and a virtual environment. Training uses scikit-learn on the CPU; no GPU or pretrained model download is required. While the repository is private, cloning requires access to it and GitHub authentication.
+Use **Python 3.12** and a virtual environment. Training uses scikit-learn on the CPU; no GPU or pretrained model download is required.
 
 ```bash
 git clone https://github.com/wavepin/movie-review-helpfulness.git
